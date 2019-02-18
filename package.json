@@ -1,5 +1,5 @@
 {
-  "name": "not-value",
+  "name": "logical-not",
   "version": "1.0.0",
   "description": "Logical NOT Function",
   "main": "index.js",
