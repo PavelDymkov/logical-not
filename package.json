@@ -13,7 +13,10 @@
   "keywords": [
     "logical", "not", "inverse"
   ],
-  "author": "Pavel Dymkov <dymkov86@gmail.com>",
+  "author": {
+    "name": "Pavel Dymkov",
+    "email": "dymkov86@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PavelDymkov/logical-not/issues"
