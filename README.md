@@ -7,8 +7,9 @@ For example:
 
 ```js
 import not from "logical-not";
+// or import { not } from "logical-not";
 
-if(not("foo".includes("bar"))) {
+if (not("foo".includes("bar"))) {
     console.log("baz");
 }
 ```
